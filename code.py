@@ -1,0 +1,1 @@
+print("karthik is good in python")
